@@ -1,6 +1,6 @@
 # Multi-modal Sarcasm Detection
 
-The source code used for our paper "PEDE: Enhance Multi-modal Sarcasm Detection in videos via Prompted Emotion Distributions"
+The source code used for our paper "PEDE: Enhance Multi-modal Sarcasm Detection in Videos via Prompted Emotion Distributions"
 
 Requirements at least one GPU is required to run the code.
 Before running, you need to first install the required packages by typing following commands (Using a virtual environment is recommended):
